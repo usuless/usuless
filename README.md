@@ -8,8 +8,11 @@
 ### <div align="center">I'm Jacob, a front-end developer 👨‍💻</div>  
   
 
-- 🔭 I’m currently working on [.Game](https://dot-game-delta.vercel.app)  
-  
+- 🔭 I’m currently working on [Witcher gwent tracker](https://witcher-cards-tracker.vercel.app)
+
+
+- 🔭 I’m currently working on [webGame](https://dot-game-delta.vercel.app)
+
 
 - 🌱 I’m currently learning Nuxt and Python  
   
