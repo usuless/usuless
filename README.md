@@ -14,7 +14,7 @@
 - 🔭 I’m currently working on [webGame](https://dot-game-delta.vercel.app)
 
 
-- 🌱 I’m currently learning Nuxt and Python  
+- 🌱 I’m currently learning Nuxt and Java  
   
 
 - ❓ Ask me about anything related to Vue and related technologies  
