@@ -14,10 +14,10 @@
 - 🔭 I’m currently working on [webGame](https://dot-game-delta.vercel.app)
 
 
-- 🌱 I’m currently learning Nuxt and Java  
+- 🌱 I’m currently learning Django and Postgres
   
 
-- ❓ Ask me about anything related to Vue and related technologies  
+- ❓ Ask me about anything related to Vue or related technologies  
   
 
 <br/>  
